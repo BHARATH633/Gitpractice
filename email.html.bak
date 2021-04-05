@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Email</title>
+ </head>
+ <body>
+  Email ID<input type="text" name="f1"></input>
+ </body>
+</html>

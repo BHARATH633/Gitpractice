@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>List</title>
+ </head>
+ <body>
+  <OL type="a" start="a">
+  <li> Hyderabad
+  <li>Sec
+  <li>ameerpet</li>
+  <li>lb nagar.</li>
+  </ol>
+  <ul type="squar">
+  <li>hyd
+  <li>hhh
+  <lijjj>
+  </ul>
+  
+  
+
+ </body>
+</html>
