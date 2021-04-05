@@ -1,7 +1,7 @@
 <html>
 <title>hello</title>
 <head>my 1st page</br><hr><h1>
-<body background="red" bgcolor="white" link="red" vlink="pink" text ="red">
+<body background="red" bgcolor="pink" link="red" vlink="pink" text ="red">
 <center><s><font size="7" face="roman">hi hru</u></font></s></center>
 <marquee bgcolor="blue" direction="left" behavior="alternate" loop="2" scrolldelay=1>Welcome to my page</marquee>
 <center><img src="D:\Akhil\akhil fb\20170625_214402.jpg" width="100" height="100" alt="img not found"/></center>
